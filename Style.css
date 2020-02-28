@@ -1,0 +1,106 @@
+.cabecera{
+    margin: 0;
+    width: 1000;
+    height: 500px;
+    border: 1px solid green;
+    padding: 0px;
+    text-align: center;
+    background-color: rgb(143, 206, 107);
+    background-size: cover;  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    background-image: url(image.jpg);
+    background-position: center 25%;
+}
+
+.parrafo {
+    text-align: left;
+    margin-top: 100px;
+}
+
+.join {
+    float: left;
+    margin-top: 100px;
+    margin-left: -255px;
+    list-style: none;
+    font: italic;
+    color: white;
+    display: block;
+    
+}
+
+.free {
+    float: left;
+    margin-top: 170px;
+    margin-left: -550px;
+    font: italic;
+    color: white;
+    display: block;
+    font-size: 20px;
+
+}
+.start {
+    float: left;
+    margin-top: 250px;
+    margin-left: -550px;
+    font: italic;
+    color: rgb(255, 255, 255);
+    background-color: rgb(101, 180, 180);
+    width: 180px;
+    border-radius: 25px;
+    height: 20px;
+    text-decoration: none;
+    
+    
+
+
+}
+
+
+  
+    
+}
+.menu {
+    display: inline-block;
+    width: 20px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif ;
+    
+}
+
+
+.bloque{
+        margin: 0;
+        width: auto;
+        border: 1px solid green;
+        padding: 100px;
+        text-align: center;
+        background-color:whitesmoke;
+        
+}
+
+#logo{
+    float: left;
+    margin-left: 5em;
+    font-weight: 500;
+    font: italic;
+    color: white;
+    font-size: 35PX;
+    text-decoration: none;
+    
+   
+}
+
+
+
+.elem-lista{
+    float: left;
+    margin-left: 50px;
+    list-style: none;
+    font: italic;
+    color: white;
+    display: block;
+    
+    
+}
