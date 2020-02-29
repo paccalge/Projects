@@ -126,14 +126,7 @@
 }
 
 
-.bloque{
-        margin: 0;
-        width: auto;
-        border: 1px solid green;
-        padding: 100px;
-        text-align: center;
-        background-color:whitesmoke;
-}
+
 
 .cursos{
     margin: 0;
@@ -240,4 +233,158 @@
     display: block;
     
     
+}
+
+.bloque{
+    margin: 0;
+    width: auto;
+    border: 1px solid green;
+    padding: 100px;
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+
+.quotes{
+    margin: 0;
+    height: 520px;
+    border: 1px solid green;
+    padding: 20px;
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+#learners{
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#infolearners{
+    margin-left: 270px;
+    font-size: 21px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fb{
+
+    float: right;
+    margin-right: 610px;
+    padding: 20px; 
+      
+}
+
+#twitter{
+    float: right;
+    margin-right: 600px;
+    margin: 20px;
+}
+
+.quo{
+    font: italic;
+    color: black;
+    font-size: 20PX;
+    float: left;
+    margin-left: 500px;
+    height: 10px;
+    width: 90px;
+    border: 1px solid green;
+    padding: 112px;
+    padding-left: 80px;
+    margin:60px;
+    padding-top: 120px;
+    
+   
+    
+}
+
+.quo2{
+    font: italic;
+    color: black;
+    font-size: 20PX;
+    float: left;
+    margin-left: 520px;
+    height: 10px;
+    width: 60px;
+    border: 1px solid green;
+    padding: 112px;
+    padding-left: 120px;
+    margin:60px;
+    padding-top: 120px;
+      
+}
+
+.quot1{
+    font-size: 13px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 63px;
+    border: 3px solid grey;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 70px;
+}
+
+.quot2{
+    font-size: 13px;
+    color: black;
+    width: 70px;
+    text-align: center;
+    padding: 5px;
+    margin: 63px;
+    border: 3px solid grey;
+    float: left;
+    margin-left: 150px;
+    width: 230px;
+    height: 110px;
+}
+
+.photo1{
+
+    border-radius: 25px;
+    float: right;
+    padding: 0px;
+    margin: -80px;
+    margin-right: 862px;
+
+}
+.pic1{
+    border-radius: 100px;
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-left: 100px;
+    margin: 20px;    
+}
+
+
+.photo2{
+
+    border-radius: 25px;
+    float: right;
+    padding: 0px;
+    margin: -95px;
+    margin-right: 405px;
+
+}
+.pic2{
+    border-radius: 100px;
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-left: 100px;
+    margin: 20px;    
+}
+
+.py{
+
+    font-size: 14px;
+    color: rgb(167, 164, 164);
+}
+
+.tit{
+
+    margin:7px
 }
