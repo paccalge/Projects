@@ -51,10 +51,7 @@
     border-radius: 25px;
     height: 20px;
     text-decoration: none;
-    
-    
-
-
+  
 }
 
 
@@ -71,6 +68,63 @@
     
 }
 
+.info{
+    margin: 0;
+    width: auto;
+    height: 370px;
+    border: 1px solid green;
+    padding: 10px;
+    text-align: center;
+    background-color:rgba(38, 55, 70, 0.911);
+   
+}
+
+.datos {
+    margin: 0;
+    width: 800px;
+    height: 5em;
+    padding: 1px;
+    text-align: center;
+    float: right;
+    margin-right: 200px;
+    align-items: inherit;
+    justify-content: space-between;
+}
+
+
+.datocolor {
+    color: rgb(53, 197, 53);
+    font-size: 35px;
+    font: italic;
+    float: left;
+}
+
+.datoblanco{
+    float: left;
+    font: italic;
+    color: white;
+   font-size: 25px;
+   padding: 5px;
+}
+
+#devices{
+    float: left;
+    margin-left: 190px;
+    padding: 35px;
+}
+
+#pardev{
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    float: right;
+    margin-right: 150px;
+}
+
+.devt{
+    font-size: 20px;
+}
+
 
 .bloque{
         margin: 0;
@@ -85,10 +139,10 @@
     margin: 0;
     width: auto;
     border: 1px solid green;
-    padding: 100px;
+    padding: 80px;
     background-color:whitesmoke;
     justify-content: stretch;
-    height: 350PX;
+    height: 390PX;
 
 }
 
