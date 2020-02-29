@@ -2,7 +2,6 @@
     margin: 0;
     width: 1000;
     height: 500px;
-    border: 1px solid green;
     padding: 0px;
     text-align: center;
     background-color: rgb(143, 206, 107);
@@ -131,7 +130,6 @@
 .cursos{
     margin: 0;
     width: auto;
-    border: 1px solid green;
     padding: 80px;
     background-color:whitesmoke;
     justify-content: stretch;
@@ -144,7 +142,7 @@
     margin: 0;
     width: 350px;
     height: 370px;
-    border: 1px solid green;
+    border: 1px solid grey;
     padding: 5px;
     text-align: center;
     margin-left: 8em;
@@ -196,7 +194,7 @@
     margin: 0;
     width: 350px;
     height: 370px;
-    border: 1px solid green;
+    border: 1px solid grey;
     padding: 5px;
     text-align: center;
     margin-right: 9em;
@@ -248,10 +246,10 @@
 .quotes{
     margin: 0;
     height: 520px;
-    border: 1px solid green;
     padding: 20px;
     text-align: center;
     background-color:whitesmoke;
+
 }
 
 #learners{
@@ -387,4 +385,53 @@
 .tit{
 
     margin:7px
+}
+
+
+.become{
+    margin: 0;
+    width: auto;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    background-color:rgb(221, 212, 212);
+}
+
+
+.titul {
+    font-size: 30px;
+}
+
+#starto{
+
+    font: italic;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 200, 142);
+    width: 700px;
+    height: 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    float: left;
+    margin-left: 315px;
+}      
+
+
+
+
+
+
+
+
+
+
+
+.bloque{
+    margin: 0;
+    width: auto;
+    border: 1px solid green;
+    padding: 100px;
+    text-align: center;
+    background-color:whitesmoke;
 }
