@@ -1,7 +1,7 @@
 .cabecera{
-    margin: 0;
-    width: 1000;
+    margin: -10px;
     height: 500px;
+    border: 1px solid rgb(224, 224, 224);
     padding: 0px;
     text-align: center;
     background-color: rgb(143, 206, 107);
@@ -44,6 +44,7 @@
     margin-top: 250px;
     margin-left: -550px;
     font: italic;
+    font-size: 17px;
     color: rgb(255, 255, 255);
     background-color: rgb(101, 180, 180);
     width: 180px;
@@ -394,7 +395,7 @@
     height: 200px;
     padding: 20px;
     text-align: center;
-    background-color:rgb(221, 212, 212);
+    background-color:rgb(235, 228, 228);
 }
 
 
@@ -419,14 +420,58 @@
 
 
 
+.barra{
+    margin: 0;
+    width: auto;
+    height:25px;
+    padding: 20px;
+    text-align: center;
+    background-color:rgb(76, 79, 87);
+    color: white;
+}
 
 
+.Contacts{
+    margin: 0;
+    width: auto;
+    border: 1px solid green;
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(234, 238, 238);
+    height: 130px;
+}
+
+#contlist{
+    list-style:none;
+    color: grey;
+    padding: 1px;
+    margin: -30px;
+    font-size: 20px;
+    float: left;
+    margin-left: 430px;
+}
 
 
+#solo{
+    margin: -100px;
+    height:50px;
+    width: 200px;
+    margin-left: -230px;
+}
 
+.cont2{
+    list-style:none;
+    color: grey;
+    padding: 10px;
+    margin: -120px;
+    font-size: 20px;
+    float: left;
+    margin-left: 600px;
+    text-align: center;
+}
 
-
-
+   
+}
 .bloque{
     margin: 0;
     width: auto;
@@ -434,4 +479,5 @@
     padding: 100px;
     text-align: center;
     background-color:whitesmoke;
+    
 }
