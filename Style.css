@@ -13,6 +13,16 @@
     background-position: center 25%;
 }
 
+#logo{
+    float: left;
+    margin-left: 5em;
+    font-weight: 500;
+    font: italic;
+    color: white;
+    font-size: 35PX;
+    text-decoration: none;
+}
+
 .parrafo {
     text-align: left;
     margin-top: 100px;
@@ -25,7 +35,6 @@
     list-style: none;
     font: italic;
     color: white;
-    display: block;
     
 }
 
@@ -37,8 +46,8 @@
     color: white;
     display: block;
     font-size: 20px;
-
 }
+
 .start {
     float: left;
     margin-top: 250px;
@@ -49,23 +58,23 @@
     background-color: rgb(101, 180, 180);
     width: 180px;
     border-radius: 25px;
-    height: 20px;
-    text-decoration: none;
-  
+    height: 23px;
+    text-decoration: none; 
 }
-
-
-  
     
 }
 .menu {
-    display: inline-block;
     width: 20px;
     height: 50px;
     font-family: 'Times New Roman', Times, serif ;
-    display: flex;
-    
-    
+}
+
+.elem-lista{
+    float: left;
+    margin-left: 50px;
+    list-style: none;
+    color: white;
+    font-size: 18px;
 }
 
 .info{
@@ -75,8 +84,7 @@
     border: 1px solid green;
     padding: 10px;
     text-align: center;
-    background-color:rgba(38, 55, 70, 0.911);
-   
+    background-color:rgba(38, 55, 70, 0.911); 
 }
 
 .datos {
@@ -91,12 +99,11 @@
     justify-content: space-between;
 }
 
-
 .datocolor {
     color: rgb(53, 197, 53);
     font-size: 35px;
-    font: italic;
     float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .datoblanco{
@@ -125,9 +132,6 @@
     font-size: 20px;
 }
 
-
-
-
 .cursos{
     margin: 0;
     width: auto;
@@ -135,9 +139,7 @@
     background-color:whitesmoke;
     justify-content: stretch;
     height: 390PX;
-
 }
-
 
 .pyt{
     margin: 0;
@@ -149,8 +151,7 @@
     margin-left: 8em;
     float: left;
     bottom: 10PX;
-    box-shadow: grey 10px 10px ;
-   
+    box-shadow: grey 10px 10px ; 
 }
 
 #logpyt{
@@ -188,7 +189,6 @@
     text-decoration: none;
     margin-left: 85px;
     font-size: 20px;
-
 }
 
 .c {
@@ -200,40 +200,9 @@
     text-align: center;
     margin-right: 9em;
     float: right;
-    box-shadow: grey 10px 10px ;
-    
+    box-shadow: grey 10px 10px ;  
 }
-
-    
-
-
-
-
-#logo{
-    float: left;
-    margin-left: 5em;
-    font-weight: 500;
-    font: italic;
-    color: white;
-    font-size: 35PX;
-    text-decoration: none;
-    
-   
-}
-
-
-
-.elem-lista{
-    float: left;
-    margin-left: 50px;
-    list-style: none;
-    font: italic;
-    color: white;
-    display: block;
-    
-    
-}
-
+ 
 .bloque{
     margin: 0;
     width: auto;
@@ -242,7 +211,6 @@
     text-align: center;
     background-color:whitesmoke;
 }
-
 
 .quotes{
     margin: 0;
@@ -268,7 +236,7 @@
 #fb{
 
     float: right;
-    margin-right: 610px;
+    margin-right: 625px;
     padding: 20px; 
       
 }
@@ -277,7 +245,10 @@
     float: right;
     margin-right: 600px;
     margin: 20px;
+    
 }
+
+
 
 .quo{
     font: italic;
@@ -346,7 +317,7 @@
     float: right;
     padding: 0px;
     margin: -80px;
-    margin-right: 862px;
+    margin-right: 855px;
 
 }
 .pic1{
@@ -365,7 +336,7 @@
     float: right;
     padding: 0px;
     margin: -95px;
-    margin-right: 405px;
+    margin-right: 403px;
 
 }
 .pic2{
