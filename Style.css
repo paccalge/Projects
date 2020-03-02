@@ -1,3 +1,7 @@
+.body{
+    width:100%;
+}
+
 .cabecera{
     margin: -10px;
     height: 500px;
@@ -10,7 +14,17 @@
     margin-right: auto;
     margin-top: 0px;
     background-image: url(image.jpg);
-    background-position: center 25%;
+    background-position: center 45% ;
+}
+/*CAMBIÉ PORCENTAJE*/
+
+.join {
+    float: left;
+    margin-top: 100px;
+    margin-left: -255px;
+    list-style: none;
+    font: italic;
+    color: white;   
 }
 
 #logo{
@@ -28,15 +42,7 @@
     margin-top: 100px;
 }
 
-.join {
-    float: left;
-    margin-top: 100px;
-    margin-left: -255px;
-    list-style: none;
-    font: italic;
-    color: white;
-    
-}
+
 
 .free {
     float: left;
@@ -74,8 +80,9 @@
     margin-left: 50px;
     list-style: none;
     color: white;
-    font-size: 18px;
+    font-size: 19px;
 }
+/*CAMBIÉ TAMAÑO DE FUENTE*/
 
 .info{
     margin: 0;
