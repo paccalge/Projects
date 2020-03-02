@@ -8,7 +8,6 @@
     border: 1px solid rgb(224, 224, 224);
     padding: 0px;
     text-align: center;
-    background-color: rgb(143, 206, 107);
     background-size: cover;  
     margin-left: auto;
     margin-right: auto;
@@ -16,14 +15,12 @@
     background-image: url(image.jpg);
     background-position: center 45% ;
 }
-/*CAMBIÉ PORCENTAJE*/
 
 .join {
     float: left;
     margin-top: 100px;
     margin-left: -255px;
     list-style: none;
-    font: italic;
     color: white;   
 }
 
@@ -31,7 +28,6 @@
     float: left;
     margin-left: 5em;
     font-weight: 500;
-    font: italic;
     color: white;
     font-size: 35PX;
     text-decoration: none;
@@ -42,15 +38,11 @@
     margin-top: 100px;
 }
 
-
-
 .free {
     float: left;
     margin-top: 170px;
     margin-left: -550px;
-    font: italic;
     color: white;
-    display: block;
     font-size: 20px;
 }
 
@@ -58,7 +50,6 @@
     float: left;
     margin-top: 250px;
     margin-left: -550px;
-    font: italic;
     font-size: 17px;
     color: rgb(255, 255, 255);
     background-color: rgb(101, 180, 180);
@@ -82,13 +73,11 @@
     color: white;
     font-size: 19px;
 }
-/*CAMBIÉ TAMAÑO DE FUENTE*/
 
 .info{
     margin: 0;
     width: auto;
     height: 370px;
-    border: 1px solid green;
     padding: 10px;
     text-align: center;
     background-color:rgba(38, 55, 70, 0.911); 
@@ -102,8 +91,6 @@
     text-align: center;
     float: right;
     margin-right: 200px;
-    align-items: inherit;
-    justify-content: space-between;
 }
 
 .datocolor {
@@ -115,10 +102,9 @@
 
 .datoblanco{
     float: left;
-    font: italic;
     color: white;
-   font-size: 25px;
-   padding: 5px;
+    font-size: 25px;
+    padding: 5px;
 }
 
 #devices{
@@ -141,7 +127,6 @@
 
 .cursos{
     margin: 0;
-    width: auto;
     padding: 80px;
     background-color:whitesmoke;
     justify-content: stretch;
@@ -162,8 +147,8 @@
 }
 
 #logpyt{
-        float: none;
-        padding-top: 0%;
+    float: none;
+    padding-top: 0%;
 }
 
 #pytut {
@@ -186,8 +171,7 @@
     font-size: 20px;
 }
 
-#botonc {
-    font: italic;
+#botonc{
     color: rgb(255, 255, 255);
     background-color: rgb(101, 180, 180);
     width: 180px;
@@ -225,13 +209,11 @@
     padding: 20px;
     text-align: center;
     background-color:whitesmoke;
-
 }
 
 #learners{
     float: left;
     margin-left: 10px;
-    
 }
 
 #infolearners{
@@ -245,20 +227,15 @@
     float: right;
     margin-right: 625px;
     padding: 20px; 
-      
 }
 
 #twitter{
     float: right;
     margin-right: 600px;
     margin: 20px;
-    
 }
 
-
-
 .quo{
-    font: italic;
     color: black;
     font-size: 20PX;
     float: left;
@@ -269,26 +246,20 @@
     padding: 112px;
     padding-left: 80px;
     margin:60px;
-    padding-top: 120px;
-    
-   
-    
+    padding-top: 120px;   
 }
 
 .quo2{
-    font: italic;
     color: black;
     font-size: 20PX;
     float: left;
     margin-left: 520px;
     height: 10px;
     width: 60px;
-    border: 1px solid green;
     padding: 112px;
     padding-left: 120px;
     margin:60px;
     padding-top: 120px;
-      
 }
 
 .quot1{
@@ -336,15 +307,12 @@
     margin: 20px;    
 }
 
-
 .photo2{
-
     border-radius: 25px;
     float: right;
     padding: 0px;
     margin: -95px;
     margin-right: 403px;
-
 }
 .pic2{
     border-radius: 100px;
@@ -356,13 +324,11 @@
 }
 
 .py{
-
     font-size: 14px;
     color: rgb(167, 164, 164);
 }
 
 .tit{
-
     margin:7px
 }
 
@@ -396,8 +362,6 @@
     margin-left: 315px;
 }      
 
-
-
 .barra{
     margin: 0;
     width: auto;
@@ -408,11 +372,9 @@
     color: white;
 }
 
-
 .Contacts{
     margin: 0;
     width: auto;
-    border: 1px solid green;
     padding: 50px;
     text-align: center;
     background-color:rgb(234, 238, 238);
@@ -428,7 +390,6 @@
     float: left;
     margin-left: 430px;
 }
-
 
 #solo{
     margin: -100px;
@@ -448,8 +409,8 @@
     text-align: center;
 }
 
-   
-}
+
+/*config inicial para reemplazar */
 .bloque{
     margin: 0;
     width: auto;
@@ -457,5 +418,5 @@
     padding: 100px;
     text-align: center;
     background-color:whitesmoke;
-    
 }
+/*CONFIG INICIAL PARA REEMPLAZAR */
